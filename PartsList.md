@@ -2,30 +2,30 @@
 
 # Current Inventory of Parts
 All of the parts currently printed out for the arm:
-- [ ] Auriculaire3 ?
-- [ ] Index 3 ?
-- [ ] Majeure 3 ?
-- [ ] Wrist Large V4 ?
-- [ ] Wrist Small V4 ?
-- [ ] ringfinger3 ?
-- [ ] robocap3V2 ?
-- [ ] robpart2V4 ?
-- [ ] robpart3V4 ?
-- [ ] robpart4V4 ?
-- [ ] robpart5V4 ? 
-- [ ] thumb5 ?
+- [x] Auriculaire3 
+- [x] Index 3
+- [x] Majeure 3
+- [x] Wrist Large V4
+- [x] Wrist Small V4
+- [x] ringfinger3
+- [x] robocap3V2
+- [x] robpart2V4
+- [x] robpart3V4
+- [x] robpart4V4
+- [x] robpart5V4
+- [x] thumb5
+- [x] Wrist Gears V5
+- [x] Bolt_entretoise7
 
 # Parts to be Printed
-- [ ] Cable holder wrist V5 ?
-- [ ] Wrist Gears V5 ?
-- [ ] Rob Cable V3 ?
-- [ ] Rob Cable Front V3 ?
-- [ ] Rob Ring V3 ?
+- [ ] Cable holder wrist V5
+- [ ] Rob Cable Back V3
+- [ ] Rob Cable Front V3
+- [ ] Rob Ring V3
 - [ ] Rob Servo Bed V6
 - [ ] Tensioner Right V1 
-- [ ] Servo Pully X5 ?
+- [ ] Servo Pully X5
 - [ ] Ardiuinosupport 
-- [ ] Bolt_entretoise7 ?
 
 # Potentially Needed Parts
 All of these may be replaced with printable bolts.
@@ -43,7 +43,7 @@ All of these may be replaced with printable bolts.
 # Necesary Parts
 - [ ] Glue / Acetone
     -Used to hold all of the parts together
-- [ ] 4 HK15298 Servos
+- [x] 4 HK15298 Servos
     -Used to move the 4 finders
 - [ ] Fishing line
     -Used to move the fingers
