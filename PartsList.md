@@ -16,15 +16,15 @@ All of the parts currently printed out for the arm:
 - [x] thumb5
 - [x] Wrist Gears V5
 - [x] Bolt_entretoise7
+- [x] Rob Servo Bed V6
+- [x] Servo Pully X5
+- [x] Tensioner Right V1 
+- [x] Rob Cable Front V3
 
 # Parts to be Printed
 - [ ] Cable holder wrist V5
 - [ ] Rob Cable Back V3
-- [ ] Rob Cable Front V3
 - [ ] Rob Ring V3
-- [ ] Rob Servo Bed V6
-- [ ] Tensioner Right V1 
-- [ ] Servo Pully X5
 - [ ] Ardiuinosupport 
 
 # Potentially Needed Parts
