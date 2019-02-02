@@ -25,7 +25,7 @@ All of the parts currently printed out for the arm:
 - [ ] Cable holder wrist V5
 - [ ] Rob Cable Back V3
 - [ ] Rob Ring V3
-- [ ] Ardiuinosupport 
+- [ ] Arduino support 
 
 # Potentially Needed Parts
 All of these may be replaced with printable bolts.
@@ -40,10 +40,10 @@ All of these may be replaced with printable bolts.
 - [ ] 3mm and 8mm drill bit
     -Used to redrill holes
 
-# Necesary Parts
+# Necessary Parts
 - [ ] Glue / Acetone
     -Used to hold all of the parts together
 - [x] 4 HK15298 Servos
-    -Used to move the 4 finders
+    -Used to move the 4 fingers
 - [ ] Fishing line
     -Used to move the fingers
