@@ -20,12 +20,12 @@ All of the parts currently printed out for the arm:
 - [x] Servo Pully X5
 - [x] Tensioner Right V1 
 - [x] Rob Cable Front V3
+- [x] Rob Ring V3
+- [x] Arduino support 
 
 # Parts to be Printed
 - [ ] Cable holder wrist V5
 - [ ] Rob Cable Back V3
-- [ ] Rob Ring V3
-- [ ] Arduino support 
 
 # Potentially Needed Parts
 All of these may be replaced with printable bolts.
@@ -41,7 +41,7 @@ All of these may be replaced with printable bolts.
     -Used to redrill holes
 
 # Necessary Parts
-- [ ] Glue / Acetone
+- [x] Glue / Acetone
     -Used to hold all of the parts together
 - [x] 4 HK15298 Servos
     -Used to move the 4 fingers
