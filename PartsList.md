@@ -22,10 +22,10 @@ All of the parts currently printed out for the arm:
 - [x] Rob Cable Front V3
 - [x] Rob Ring V3
 - [x] Arduino support 
+- [x] Cable holder wrist V5
+- [x] Rob Cable Back V3
 
 # Parts to be Printed
-- [ ] Cable holder wrist V5
-- [ ] Rob Cable Back V3
 
 # Potentially Needed Parts
 All of these may be replaced with printable bolts.
